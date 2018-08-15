@@ -1,0 +1,34 @@
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Form1.resources
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Resources.resources
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_A.resources
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_B.resources
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.vbproj.GenerateResource.Cache
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe.config
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.pdb
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.xml
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.exe
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.xml
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.pdb
+D:\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_C.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe.config
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.exe
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.xml
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.pdb
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Form1.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Resources.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_A.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_B.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo_Practico_Nro1.Punto_C.resources
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.vbproj.GenerateResource.Cache
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.pdb
+C:\Users\Emmanuel\Downloads\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.xml
+C:\Users\Emmanuel\Desktop\Repositorio Sourcewc\Trabajos practicos de Simulacion 2018\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe.config
+C:\Users\Emmanuel\Desktop\Repositorio Sourcewc\Trabajos practicos de Simulacion 2018\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.exe
+C:\Users\Emmanuel\Desktop\Repositorio Sourcewc\Trabajos practicos de Simulacion 2018\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.xml
+C:\Users\Emmanuel\Desktop\Repositorio Sourcewc\Trabajos practicos de Simulacion 2018\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.pdb
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Debug\Trabajo Practico Nro1.exe.config
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.exe
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.xml
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Debug\Trabajo Practico Nro1.pdb

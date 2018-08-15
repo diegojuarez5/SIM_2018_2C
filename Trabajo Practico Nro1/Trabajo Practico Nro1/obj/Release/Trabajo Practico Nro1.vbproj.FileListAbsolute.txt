@@ -1,0 +1,14 @@
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Release\Trabajo Practico Nro1.exe.config
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Release\Trabajo Practico Nro1.exe
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Release\Trabajo Practico Nro1.pdb
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\bin\Release\Trabajo Practico Nro1.xml
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo Practico Nro1.vbprojResolveAssemblyReference.cache
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo_Practico_Nro1.Form1.resources
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo_Practico_Nro1.Resources.resources
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo_Practico_Nro1.Punto_A.resources
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo_Practico_Nro1.Punto_B.resources
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo_Practico_Nro1.Punto_C.resources
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo Practico Nro1.vbproj.GenerateResource.Cache
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo Practico Nro1.exe
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo Practico Nro1.xml
+D:\Facu\SIM\2018\Repositorio_SIM\Trabajo Practico Nro1\Trabajo Practico Nro1\obj\Release\Trabajo Practico Nro1.pdb
